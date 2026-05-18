@@ -63,7 +63,7 @@ Leadership should continue monitoring refund activity relative to revenue growth
 
 # Customer & Marketing Analysis
 
-![Customer Marketing Analysis](customer_marketing_analysis.jpeg)
+![Customer Marketing Analysis](Customer_marketing_analysis.jpeg)
 
 ## Key Observations
 
@@ -93,7 +93,7 @@ These customer segments appear to produce stronger long-term profitability than 
 
 # Product & Profitability Analysis
 
-![Product Profitability Analysis](product_profitability_analysis.jpeg)
+![Product Profitability Analysis](Product_profitability_analysis.jpeg)
 
 ## Key Observations
 
@@ -125,7 +125,7 @@ Leadership should evaluate operational improvements within high-return product c
 
 # Regional & Operational Performance
 
-![Regional Operational Performance](regional_operational_performance.jpeg)
+![Regional Operational Performance](Regional_operational_performance.jpeg)
 
 ## Key Observations
 
