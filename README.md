@@ -41,7 +41,7 @@ This analysis focuses on answering several key business questions:
 
 # Executive Performance Overview
 
-![Executive Overview](executive_overview.jpeg)
+![Executive Overview](Executive_overview.jpeg)
 
 ## Key Observations
 
